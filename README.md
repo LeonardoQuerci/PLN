@@ -17,6 +17,7 @@ Meu foco aqui é transformar a teoria da graduação em prática, explorando com
 * **Python** (Linguagem principal)
 * **Pandas** (Manipulação de dados)
 * **Matplotlib & Seaborn** (Visualização de dados)
+* **NLTK** (Tratamento de similaridades)
 
 ---
 > *Este é um repositório em constante evolução, servindo como um diário de bordo do meu crescimento acadêmico e técnico.*
